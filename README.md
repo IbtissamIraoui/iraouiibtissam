@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Iraoui Ibtissam
+#  Salut, je suis Iraoui Ibtissam
 
 🎓 Étudiante en Ingénierie des Systèmes d'Information et de Communication à l’ENSA El Jadida.  
 💻 Passionnée par le développement web (Laravel, Vue.js, MySQL).  
@@ -21,8 +21,8 @@
 ---
 
 ### 📫 Me contacter
-- ✉️ [iraouiibtissam@gmail.com](mailto:iraouiibtissam05@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ibtissam-ira)
+- [iraouiibtissam@gmail.com](mailto:iraouiibtissam05@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ibtissam-ira)
 
 
 ---
@@ -31,7 +31,7 @@
 ---
 
 ### 📊 Mes statistiques GitHub
-![Ibtissam's GitHub stats](https://github-readme-stats.vercel.app/api?username=iraouiibtissam&show_icons=true&theme=radical)
+![Ibtissam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibtissamiraoui&show_icons=true&theme=radical)
 
 ### 🖥️ Langages les plus utilisés
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iraouiibtissam&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibtissamiraoui&layout=compact&theme=radical)
